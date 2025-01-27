@@ -107,8 +107,7 @@
   letter-spacing: 30px;
 }
 
-.cover__description
-{
+.cover__description {
   display: flex;
   align-items: baseline;
   font-family: 'Raleway', sans-serif;
@@ -293,8 +292,7 @@
   font-style: normal;
  }
 
- .footer__menu
- {
+ .footer__menu {
   display: flex;
   justify-content: center;
   font-family: 'Raleway', sans-serif;
@@ -327,8 +325,7 @@
   text-decoration: none;
 }
 
- .footer__social-list
-{
+ .footer__social-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: end;
